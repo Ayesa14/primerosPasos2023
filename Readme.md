@@ -29,8 +29,8 @@ Texto de <sup>superíndice</sup>
 ## Listas
 
 -Contornos
-+Programación
-*Base de datos
+-Programación
+-Base de datos
 
 ## Listas ordenadas
 
@@ -41,9 +41,9 @@ Texto de <sup>superíndice</sup>
 ## Listas anidadas
 
 1. Pan
-    -harina
-    -agua
-    -sal
+    - harina
+    - agua
+    - sal
 
 ## Listas de tareas
 
