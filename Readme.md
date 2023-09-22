@@ -28,9 +28,9 @@ Texto de <sup>superíndice</sup>
 
 ## Listas
 
--Contornos
--Programación
--Base de datos
+- Contornos
+- Programación
+- Base de datos
 
 ## Listas ordenadas
 
