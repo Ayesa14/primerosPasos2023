@@ -18,9 +18,9 @@ Texto de <sub>subíndice</sub>
 
 Texto de <sup>superíndice</sup>
 
-[Vínculo(https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)]
+[Vínculo](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-[Vínculo relativo(https://github.com/Ayesa14/primerosPasos2023/blob/main/Readme.md)]
+[Vínculo relativo](https://github.com/Ayesa14/primerosPasos2023/blob/main/Readme.md)
 
 ![Imagen](https://agenciacomma.com/wp-content/uploads/2021/04/busqueda-inversa-imagenes.jpg)
 
@@ -51,4 +51,5 @@ Texto de <sup>superíndice</sup>
 - [ ] bajar la basura
 - [ ] sacar al perro
 
-
+:bowtie:
+:smile:
